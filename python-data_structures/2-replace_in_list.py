@@ -1,11 +1,8 @@
 #!/usr/bin/python3
-def divisible_by_2(my_list=[]):
-    """Finds all multiples of 2 in a list"""
-    multiples = []
-    for i in range(len(my_list)):
-        if my_list[i] % 2 == 0:
-            multiples.append(True)
-        else:
-            multiples.append(False)
+def replace_in_list(my_list, idx, element):
+    """Replace an element of a list at a specific position."""
+    if idx < 0 or idx > (len(my_list) - 1):
+        return my_list
 
-    return multiples
+    my_list[idx] = element
+    return my_list
