@@ -9,6 +9,7 @@ Project: 0x08-python-more_classes
 Status: Not yet submitted.
 '''
 
+
 class Rectangle:
     """Represent a rectangle."""
 
