@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-'''appends a string at the end of a text file and returns the number of characters added    
+'''appends a string at the end of a text file
+and returns the number of characters added
 '''
 
 
