@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+def lazy_matrix_mul(m_a, m_b):
+
 """Defines a matrix multiplication function using NumPy."""
 '''
 File_name:
@@ -12,7 +15,7 @@ Status: Not yet submitted.
 
 import numpy as np
 
-def lazy_matrix_mul(m_a, m_b):
+
     """Return the multiplication of two matrices.
 
     Args:
