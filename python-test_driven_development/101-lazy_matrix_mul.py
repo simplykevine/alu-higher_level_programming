@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Defines a matrix multiplication function using NumPy."""
 '''
-File_name: 
+File_name:
 Created: 5-DEC-2023
 Author: UMUTONI Kevine (simplykevine)
 Size: Large
