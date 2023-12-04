@@ -8,6 +8,8 @@ Size: Large
 Project: python-test_driven_development
 Status: Not yet submitted.
 '''
+
+
 def print_square(size):
     """Print a square with the # character.
 
