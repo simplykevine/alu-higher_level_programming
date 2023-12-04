@@ -9,8 +9,8 @@ Project: python-test_driven_development
 Status: Not yet submitted.
 '''
 
-import numpy as np\
 
+import numpy as np
 
 def lazy_matrix_mul(m_a, m_b):
     """Return the multiplication of two matrices.
