@@ -12,8 +12,8 @@ Project: python-test_driven_development
 Status: Not yet submted
 '''
 
+
 def lazy_matrix_mul(m_a, m_b):
-    
 
     """Return the multiplication of two matrices.
 
