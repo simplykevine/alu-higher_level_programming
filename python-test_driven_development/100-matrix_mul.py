@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 """Defines a matrix multiplication function."""
 '''
-File_name: 
+File_name:
 Created: 5-DEC-2023
 Author: UMUTONI Kevine (simplykevine)
 Size: Large
 Project: python-test_driven_development
 Status: Not yet submitted.
 '''
+
 
 def matrix_mul(m_a, m_b):
     """Multiply two matrices.
